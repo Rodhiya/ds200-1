@@ -11,4 +11,6 @@
 >> The link to download the dataset is https://data.gov.in/resources/stateut-wise-complaints-received-police-cases-registered-under-ipc-sll-during-2009 .<br/> The data is uploaded by **National Crime Records Bureau- Ministry of Home Affairs** (http://ncrb.gov.in/)
 
 ### Part2: - Scatter Plot
-> Below is the scatterplot
+> Below are two scatterplot.
+
+![scatterplot](images/Figure_1.png)
