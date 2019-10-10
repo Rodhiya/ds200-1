@@ -22,3 +22,34 @@
 1.  The number of complaints registered suomoto by the police for a state/UT are highly correlated with the number of complaints filed under SLL. 
 2.  The correlation between number of complaints registered by others(not suomoto by police) are not correlated to the number of complaints filed under SLL to that extent.
 3.  A logical reason for this is that mostly complaints under Special and Local Laws are filed againsts an entity after investigation by law enforcers and are therefore not filed on recieving of first complaint (with few exceptions like cognizible crime under Dowry Actor SC/ST attrocity ACT).
+
+* * *
+
+### Part2: - Box Plot
+> Below are two boxplots.
+
+![Boxplot](images/Figure_2.png)
+
+1.  The plot on the left shows the box plot of **Number of complaints received by police** in two catergories. First the complaints which are submitted to police by other entities via oral,written means or using police helpline. Second are the complaints that are registered by police suomoto for all 35 states and U.Ts. The first boxplot shows the number of complaints on log scale along with the outliers.
+2. The second boxplot shows the same data as (1) but on a linear scale without outliers.
+#### The observations one can derive from the boxplots are the following:-
+1.  Looking at (b) we can say that on an average more complaints are registered by outside entities than suomoto by law enforceres.
+2.  The spread in number of complaints filed by non law enforcers is more. This category also has less outliers than the other.
+3.  The complaints registered suomoto by law enforcers are very high compared to the IQR in a few States/UTs and hence have more outliers.
+
+
+* * *
+### Part3: - Bar Chart
+> Below is the Barchart which shows for all States and U.Ts (those that existed in 2009) how many complaints are filed by non law enforcers and suomoto by police.
+
+![Barchart](images/Figure_3.png)
+
+1.  The Bar chart shows on log10 scale the **number of complaints**. The **blue** bar denoted the **number of complaints  received by police via oral/written/helpline** and the **red** bar denoted the **number of complaints filed suomoto by police** for all 35 states and U.Ts .
+
+#### The observations one can derive from the bar chart are the following:-
+
+1.  Apart from T.N, A&N Islands and Uttarakhand in all states more complaints are recieved via oral/written/helpline means. This explains the higher average of number of complaints received via oral/written/helpline means in box plot.
+2.  Although in most of states the number of suomoto complaints are considerably less than the other category, in some of them the number is closer or even higher than later. This explains the reason for high number of outliers.
+
+
+
