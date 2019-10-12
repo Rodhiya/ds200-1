@@ -10,6 +10,13 @@
 > The dataset is **Crime in India - 2009/State/UT-wise Complaints received by Police & Cases registered under IPC & SLL during 2009** and is  downloaded from www.data.gov.in.
 >> The link to download the dataset is https://data.gov.in/resources/stateut-wise-complaints-received-police-cases-registered-under-ipc-sll-during-2009 .<br/> The data is uploaded by **National Crime Records Bureau- Ministry of Home Affairs** (http://ncrb.gov.in/). <br/>The data gives the statistics of the method of complaint registration (oral/written/helpline/suomoto by police) and the category in which complaint is registered (IPC or SLL) for all states and U.Ts for the year 2008-9
 
+
+### Files
+> All the files are contained in the zip folder **module4**
+1.  **NCRB_2009_Table_1.1.csv** is the file containing all the data. The file is same as downloaded from website, only the names of states are shortened.
+2.  **ds200_module4_plots.py** is the file containing python code for the creating the graphs using _matplotlib_ library.
+
+
 ### Part2: - Scatter Plot
 > Below are two scatterplot.
 
@@ -50,7 +57,7 @@
 
 #### The observations one can derive from the bar chart are the following:-
 
-1.  Apart from T.N, A&N Islands and Uttarakhand in all states more complaints are recieved via oral/written/helpline means. This explains the higher average of number of complaints received via oral/written/helpline means in box plot.
+1.  Apart from T.N, Goa, U.P, A&N Islands and Uttarakhand in all states more complaints are recieved via oral/written/helpline means. This explains the higher average of number of complaints received via oral/written/helpline means in box plot.
 2.  Although in most of states the number of suomoto complaints are considerably less than the other category, in some of them the number is closer or even higher than later. This explains the reason for high number of outliers.
 
 
