@@ -15,7 +15,7 @@
 > All the files are contained in the zip folder **module4**
 1.  **NCRB_2009_Table_1.1.csv** is the file containing all the data. The file is same as downloaded from website, only the names of states are shortened.
 2.  **ds200_module4_plots.py** is the file containing python code for the creating the graphs using _matplotlib_ library.
-3.  Cpoy **plot_graphs.ipynb** in the **module4** folder if you want to use Jupyter Notebook.
+3.  Copy **plot_graphs.ipynb** in the **module4** folder if you want to use Jupyter Notebook.
 
 ### Part2: - Scatter Plot
 > Below are two scatterplot.
