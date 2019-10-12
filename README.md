@@ -57,7 +57,7 @@
 
 #### The observations one can derive from the bar chart are the following:-
 
-1.  Apart from T.N, U.P,A&N Islands and Uttarakhand in all states more complaints are recieved via oral/written/helpline means. This explains the higher average of number of complaints received via oral/written/helpline means in box plot.
+1.  Apart from T.N, Goa, U.P, A&N Islands and Uttarakhand in all states more complaints are recieved via oral/written/helpline means. This explains the higher average of number of complaints received via oral/written/helpline means in box plot.
 2.  Although in most of states the number of suomoto complaints are considerably less than the other category, in some of them the number is closer or even higher than later. This explains the reason for high number of outliers.
 
 
